@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#123"
+    tools:context="com.example.mosalah95.focuspower.SettingsActivity">
+
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_restart"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Reset All App Without Coins "
+        app:bootstrapBrand="info"
+        app:bootstrapSize="lg"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        android:onClick="restart"
+        app:showOutline="false" />
+
+    <!--<com.beardedhen.androidbootstrap.BootstrapButton-->
+        <!--android:id="@+id/btn_about"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="60dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:layout_marginLeft="30dp"-->
+        <!--android:layout_marginRight="30dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:gravity="center"-->
+        <!--android:text="About app "-->
+        <!--app:bootstrapBrand="info"-->
+        <!--app:bootstrapSize="lg"-->
+        <!--app:buttonMode="regular"-->
+        <!--app:roundedCorners="true"-->
+        <!--android:onClick="restart"-->
+        <!--app:showOutline="false" />-->
+
+
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_report"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/report"
+        app:bootstrapBrand="info"
+        app:bootstrapSize="lg"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        android:onClick="report"
+        app:showOutline="false" />
+
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_stars"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/rate"
+        app:bootstrapBrand="info"
+        app:bootstrapSize="lg"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        android:onClick="stars"
+        app:showOutline="false" />
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+

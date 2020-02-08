@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> قوة الزاكرة</string>
+    <string name="end_game_1">الف مبروك</string>
+    <string name="end_game_2">لقد اكملت كل المراحل انتظر اضافة مراحل جديدة</string>
+    <string name="warp_home">الذهاب الي الصفحة الرئيسية</string>
+    <string name="watch_ads">مشاهدة اعلان</string>
+    <string name="watch_image">ركز في الصورة</string>
+    <string name="skip">تخطي الوقت والانتقال الي الاسئلة</string>
+    <string name="zoom">تستطيع تكبير وتصغير الصورة باستخدام اصابعك</string>
+    <string name="earned_point">النثاط المكتسبة : </string>
+    <string name="correct_answer">الاجابات الصحيحة</string>
+    <string name="wrong_answer">الاجابات الخطا</string>
+    <string name="next">المرحلة التالية</string>
+    <string name="restart_game">استرجاع العبة للاصل</string>
+    <string name="report">ارسال تقرير</string>
+    <string name="rate">تقيم التطبيق</string>
+    <string name="type_report">نوع التقرير</string>
+    <string name="Problem">مشكلة</string>
+    <string name="Suggestion">اقتراح</string>
+    <string name="Another">اخري</string>
+    <string name="description">الوصف</string>
+    <string name="description_report">من فضلك اخبرنا لماذا تقوم بانشاء هذا التقرير</string>
+    <string name="tools_shop">ادوات المتجر</string>
+    <string name="increase_time">زيادة وقت الانتظار</string>
+    <string name="description_time">يمكنه زيادة الوقت 5 ثواني</string>
+    <string name="increase_money">زيادة الامول المكتسبة</string>
+    <string name="description_money">عند الاجابة الصحيحة سوف تحصل مكافاة مضاعفة</string>
+    <string name="Reduce_money">تقليل الامول المفقود</string>
+    <string name="description_Reduce">عند الاجابة بخطا النقاط التي خسرتها سو تعود</string>
+    <string name="enough_money">ليس لديك ما يكفي من المال ، شاهد الإعلان لكسب المزيد من المال</string>
+    <string name="done">المنتج تم شراؤها بنجاح</string>
+    <string name="no_app">لا يوجد تطبيق محادثة في هاتفك</string>
+    <string name="earned">لقد ربحت 60 قطعة نقدية</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="empty">محتوى الرسالة فارغ</string>
+    <string name="reset">تمت إعادة تعيين التطبيق بدون العملات</string>
+    <string name="level">المرحلة : </string>
+    <string name="start_game">بداية اللعب</string>
+    <string name="Shop">المتجر</string>
+    <string name="Settings">الاعدادات</string>
+    <string name="Exit">اغلاق اللعبة</string>
+
+
+    <string name="group_ads">ca-app-pub-1290219356875093~3379865670</string>
+    <string name="full_window">ca-app-pub-1290219356875093/7253879112</string>
+    <string name="banner">ca-app-pub-1290219356875093/6707084207</string>
+    <string name="video">ca-app-pub-1290219356875093/2505767705</string>
+
+    <string name="facebook_app_id">279992265749895</string>
+
+</resources>

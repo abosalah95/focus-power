@@ -1,0 +1,343 @@
+{
+  "Levels": [
+    {
+      "Image": "img1.jpg",
+      "Questions": [
+        {
+          "Question": "هل يوجد قلم في الصورة ؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        },
+        {
+          "Question": "هل يوجد سماعة متصلة بالابتوب ؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        }
+      ]
+    },
+    {
+      "Image": "img2.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد التوت البري في الصورة؟",
+          "Answer_1": "5",
+          "Answer_2": "1",
+          "Answer_3": "لا يوجد",
+          "Answer_True": "2"
+        },
+        {
+          "Question": "كم عدد الملاعق في الصورة؟",
+          "Answer_1": "1",
+          "Answer_2": "2",
+          "Answer_True": "لايوجد"
+        }
+      ]
+    },
+    {
+      "Image": "img3.jpg",
+      "Questions": [
+        {
+          "Question": "ما هو لون قطعة الشطرنج الذي كان على اليمين؟",
+          "Answer_1": "أزرق",
+          "Answer_2": "أخضر",
+          "Answer_3": "أحمر",
+          "Answer_True": "أبيض"
+        },
+        {
+          "Question": "ماذا كانت حالة رقعة الشطرنج في الوسط توحي؟",
+          "Answer_1": "سعيدة",
+          "Answer_2": "تبكي",
+          "Answer_3": "مندهشة",
+          "Answer_True": "تصرخ"
+        }
+      ]
+    },
+    {
+      "Image": "img4.jpg",
+      "Questions": [
+        {
+          "Question": "هل كانت هناك لوحة للسيارة؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        },
+        {
+          "Question": "هل يوجد شخص داخل السيارة ؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        },
+        {
+          "Question": "ما هو لون السيارة ؟",
+          "Answer_1": "أخضر",
+          "Answer_2": "أزرق غامق",
+          "Answer_3": "أحمر",
+          "Answer_True": "أزرق فاتح"
+        }
+      ]
+    },
+    {
+      "Image": "img5.jpg",
+      "Questions": [
+        {
+          "Question": "هل كان هناك وجه علي الكأس ؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        },
+        {
+          "Question": "كم عدد النجوم التي كانت في الصورة؟",
+          "Answer_1": "1",
+          "Answer_2": "لايوجد",
+          "Answer_3": "4",
+          "Answer_True": "3"
+        }
+      ]
+    },
+    {
+      "Image": "img6.jpg",
+      "Questions": [
+        {
+          "Question": "ماذا كان لون ربطة العنق؟",
+          "Answer_1": "أزرق فاتح",
+          "Answer_2": "أبيض",
+          "Answer_3": "أسود",
+          "Answer_True": "أزرق غامق"
+        },
+        {
+          "Question": "ماذا كان لون خوذة الصبي؟",
+          "Answer_1": "أزرق",
+          "Answer_2": "أخضر",
+          "Answer_3": "أزرق فاتح",
+          "Answer_True": "أحمر"
+        }
+      ]
+    },
+    {
+      "Image": "img7.jpg",
+      "Questions": [
+        {
+          "Question": "ما هو نوع الساعة التي كان يرتديها الشخص؟",
+          "Answer_1": "ساعة عادية",
+          "Answer_True": "ساعة ذكية "
+        },
+        {
+          "Question": "هل كانت هناك أوراق على الأشجار؟ ",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        },
+        {
+          "Question": "ما هو اسم الشركة التي كتبت على الكاميرا؟",
+          "Answer_1": "سوني",
+          "Answer_2": "نيكون",
+          "Answer_True": "كانون"
+        }
+      ]
+    },
+    {
+      "Image": "img8.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد الحلوى الموجودة؟",
+          "Answer_1": "24",
+          "Answer_2": "20",
+          "Answer_3": "8",
+          "Answer_True": "16"
+        },
+        {
+          "Question": "هل كان هناك حلوى بيضاء؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        }
+      ]
+    },
+    {
+      "Image": "img9.jpg",
+      "Questions": [
+        {
+          "Question": "ماذا كان رقم التذكرة؟",
+          "Answer_1": "815205",
+          "Answer_2": "827205",
+          "Answer_True": "817205"
+        },
+        {
+          "Question": "ما الكلمة غير الموجودة في الصورة؟",
+          "Answer_1": "TICKET",
+          "Answer_2": "KEEP THIS COUPON",
+          "Answer_3": "MACO TAG & LABEL",
+          "Answer_True": "18$"
+        }
+      ]
+    },
+    {
+      "Image": "img10.jpg",
+      "Questions": [
+        {
+          "Question": "كم كان الوقت في الساعة؟",
+          "Answer_1": "10",
+          "Answer_2": "5",
+          "Answer_3": "7",
+          "Answer_True": "12"
+        },
+        {
+          "Question": "هل كانت هناك محفظة في الصورة؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        }
+      ]
+    },
+    {
+      "Image": "img11.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد المكسرات كانت داخل الطبق؟",
+          "Answer_1": "7",
+          "Answer_2": "1",
+          "Answer_3": "5",
+          "Answer_True": "4"
+        },
+        {
+          "Question": "هل كانت هناك دائرة في منتصف الملعقة؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        }
+      ]
+    },
+    {
+      "Image": "img12.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد الخواتم التي كان الناس يرتدونها في أصابعهم؟",
+          "Answer_1": "4",
+          "Answer_2": "لا يوجد",
+          "Answer_3": "1",
+          "Answer_True": "3"
+        },
+        {
+          "Question": "هل كان هناك حلوى ماكولة؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        }
+      ]
+    },
+    {
+      "Image": "img13.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد السكاكين التي كانت موجودة على الطاولة؟",
+          "Answer_1": "2",
+          "Answer_2": "1",
+          "Answer_True": "لا بوجد"
+        },
+        {
+          "Question": "كم عدد البيض الموجود على الطاولة؟",
+          "Answer_1": "3",
+          "Answer_2": "2",
+          "Answer_3": "1",
+          "Answer_True": "5"
+        }
+      ]
+    },
+    {
+      "Image": "img14.jpg",
+      "Questions": [
+        {
+          "Question": "كم عدد الأقلام التي كانت في الصورة؟",
+          "Answer_1": "16",
+          "Answer_2": "25",
+          "Answer_3": "20",
+          "Answer_True": "15"
+        },
+        {
+          "Question": "ما هو اللون غير موجود في الصورة؟",
+          "Answer_1": "احمر",
+          "Answer_2": "ازرق",
+          "Answer_3": "اخضر",
+          "Answer_True": "ابيض"
+        },
+        {
+          "Question": "ما هو اللون الذي كان في الشمال؟",
+          "Answer_1": "احمر",
+          "Answer_2": "ازرق",
+          "Answer_3": "اخضر",
+          "Answer_True": "اصفر"
+        }
+      ]
+    },
+    {
+      "Image": "img15.jpg",
+      "Questions": [
+        {
+          "Question": "هل كان دفتر الملاحظات فارغًا؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        },
+        {
+          "Question": "ما كان لون إطار ساعة اليد؟",
+          "Answer_1": "احمر",
+          "Answer_2": "ازرق",
+          "Answer_3": "اصفر",
+          "Answer_True": "احمر غامق"
+        }
+      ]
+    },
+    {
+      "Image": "img16.jpg",
+      "Questions": [
+        {
+          "Question": "مع ماذا تم توصيل سلك الموبيل؟",
+          "Answer_1": "الابتوب",
+          "Answer_2": "الاي باد",
+          "Answer_True": "السماعات"
+        },
+        {
+          "Question": "هل كان الاي باد مغلق؟",
+          "Answer_1": "نعم",
+          "Answer_True": "لا"
+        }
+      ]
+    },
+    {
+      "Image": "img17.jpg",
+      "Questions": [
+        {
+          "Question": "هل كان الطقس ممطر",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        },
+        {
+          "Question": "ماذا كان داخل الطبق؟",
+          "Answer_1": "رمل صحراء",
+          "Answer_2": "بعض القش",
+          "Answer_True": "تراب"
+        }
+      ]
+    },
+    {
+      "Image": "img18.jpg",
+      "Questions": [
+        {
+          "Question": "كم كان عدد المقاعد في الصورة",
+          "Answer_1": "1",
+          "Answer_2": "5",
+          "Answer_3": "لايوجد",
+          "Answer_True": "7"
+        }
+      ]
+    },
+    {
+      "Image": "img19.jpg",
+      "Questions": [
+        {
+          "Question": "هل كان هناك قلب احمر في إحدى العلب؟",
+          "Answer_1": "لا",
+          "Answer_True": "نعم"
+        },
+        {
+          "Question": "ما هو لون سترة الرجل؟",
+          "Answer_1": "اخضر فاتح",
+          "Answer_2": "ازرق",
+          "Answer_2": "احمر",
+          "Answer_True": "اخضر غامق"
+        }
+      ]
+    }
+  ]
+}

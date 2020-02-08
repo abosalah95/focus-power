@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Memory Power</string>
+    <string name="end_game_1">Congratulations</string>
+    <string name="end_game_2">you complated all the the stages, more stages will be added soon.</string>
+    <string name="warp_home">Go to home page</string>
+    <string name="watch_ads">watch an advertisement</string>
+    <string name="watch_image">See the picture</string>
+    <string name="skip">I don\'t want to wait .. Move to the questions</string>
+    <string name="zoom">You can now zoom the image or make it smaller with your fingers</string>
+    <string name="earned_point">Points earned : </string>
+    <string name="correct_answer">The Correct answers</string>
+    <string name="wrong_answer">The Wrong answers</string>
+    <string name="next">The next stage</string>
+    <string name="restart_game">Reset the game again</string>
+    <string name="report">Sent a report</string>
+    <string name="rate">App Rate</string>
+    <string name="type_report">type of the  report</string>
+    <string name="Problem">Problem</string>
+    <string name="Suggestion">Suggestion</string>
+    <string name="Another">Another</string>
+    <string name="description">the description</string>
+    <string name="description_report">Please tell us why you want to create a report</string>
+    <string name="tools_shop">Tools Shop</string>
+    <string name="increase_time">Increase time</string>
+    <string name="description_time">Let you Increase the time for 5 seconds</string>
+    <string name="increase_money">Increase money</string>
+    <string name="description_money">When you answer correctly you will get twice the amount</string>
+    <string name="Reduce_money">Reduce the amount of loss</string>
+    <string name="description_Reduce">When you answer Incorrectly, the loss points will be reduced</string>
+    <string name="enough_money">You do not have enough money, watch advertisement to earn more money</string>
+    <string name="done">Product successfully purchased</string>
+    <string name="no_app">There is no conversation app in your phone</string>
+    <string name="earned">you have earned 60 coins</string>
+    <string name="no_internet">No Internet connection</string>
+    <string name="empty">The message content is empty</string>
+    <string name="reset">All the app have been reset without coins</string>
+    <string name="level">Level : </string>
+    <string name="start_game">Start Game</string>
+    <string name="Shop">Shop</string>
+    <string name="Settings">Settings</string>
+    <string name="Exit">Exit Game</string>
+
+
+    <string name="group_ads">ca-app-pub-1290219356875093~3379865670</string>
+    <string name="full_window">ca-app-pub-1290219356875093/7253879112</string>
+    <string name="banner">ca-app-pub-1290219356875093/6707084207</string>
+    <string name="video">ca-app-pub-1290219356875093/2505767705</string>
+
+    <string name="facebook_app_id">279992265749895</string>
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#313131"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.mosalah95.focuspower.EndgameActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.7" />
+
+    <TextView
+        android:id="@+id/text_te1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/end_game_1"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/text_te2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/end_game_2"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5" />
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_tohome"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:onClick="backToHome"
+        android:text="@string/warp_home"
+        app:bootstrapBrand="info"
+        app:bootstrapSize="sm"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        app:showOutline="true" />
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_restart"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Reset All App Without Coins "
+        app:bootstrapBrand="info"
+        app:bootstrapSize="sm"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        android:onClick="restart"
+        app:showOutline="true" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2" />
+</LinearLayout>
